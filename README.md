@@ -1,4 +1,4 @@
-# Project Title: Predicting Concrete Compressive Strength using Machine Learning Techniques
+# Project Title: Predicting Concrete Compressive Strength using Deep Learning
 ## Introduction
 Concrete is the most important material in civil engineering, and its compressive strength is a highly nonlinear function of age and ingredients. In this project, our main aim is to predict the correct concrete compressive strength using machine learning techniques. We will utilize the information on various ingredients to predict the different cement compressive strengths.
 
